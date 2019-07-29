@@ -79,9 +79,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'django',
         'USER': 'root',
-        'PASSWORD': 'Pa$$w0rd',
-        'HOST':'backup-test.chdbv61dfcei.rds.cn-northwest-1.amazonaws.com.cn',
-        'PORT':'3306',
+        'PASSWORD': 'XXXXXXXX',
+        'HOST':'XXXXXXXXXX.rds.cn-northwest-1.amazonaws.com.cn',
+        'PORT':'XXXXXX',
      'OPTIONS': { 
          'init_command': 'SET sql_mode=STRICT_TRANS_TABLES', 
          },
